@@ -25,10 +25,12 @@
     - title: Undergraduate Researcher
       institution: MIT, PDOS Group
       year: 2022-2023
+      description: data center application runtimes
   
     - title: Undergraduate Researcher
       institution: Imperial College, LSDS Group
       year: 2021-2022
+      description: distributed machine learning systems
 
 - title: Employment
   type: time_table
