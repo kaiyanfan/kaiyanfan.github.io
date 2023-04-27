@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kaiyanfan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaiyanfan.github.io
+  * I am kaiyanfan (https://keybase.io/kaiyanfan) on keybase.
+  * I have a public key ASApGr7wxIqqo0DJYg7W1Sl10ddlqSFyFRXFmrC4cOy6ogo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120291abef0c48aaaa340c9620ed6d52975d1d765a921721515c59ab0b870ecbaa20a",
+      "host": "keybase.io",
+      "kid": "0120291abef0c48aaaa340c9620ed6d52975d1d765a921721515c59ab0b870ecbaa20a",
+      "uid": "04bc6302c8186109509d42d00d11b619",
+      "username": "kaiyanfan"
+    },
+    "merkle_root": {
+      "ctime": 1682624385,
+      "hash": "9632b1c4de9ee8d1fb1cc58eb10fe8649f4eef8cfc4f3a140aafb7cc4bc06a57a7a8c5364d8604b4facb14f1ebccd20133ad816e10bff4740b9f42f9c970798f",
+      "hash_meta": "806980ec38a2f426ff49ec7145d3444e62823f61a764bba5c12f8e3b750b4bd0",
+      "seqno": 24386781
+    },
+    "service": {
+      "entropy": "Bmwv1Qfi5PcudMjsmnX7M/cQ",
+      "hostname": "kaiyanfan.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.4"
+  },
+  "ctime": 1682624400,
+  "expire_in": 504576000,
+  "prev": "e13bdb1e8cfe99e029db3805fc11989bb0b2091be220c51c82ef5a21f250e057",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKRq+8MSKqqNAyWIO1tUpddHXZakhchUVxZqwuHDsuqIKp3BheWxvYWTESpcCHMQg4TvbHoz+meAp2zgF/BGYm7CyCRviIMUcgu9aIfJQ4FfEIC1qHCvRrekAi0+X1ORqNDuPafbCFBknzBnivCpKe2ffAgHCo3NpZ8RASfFZOGtMp4LmkC37Adlk/M41VRa+dCA/KXR05u1PEqnVc0kEwbBZPHN9cGzCGmyRBuXgT2XELqqlfnGCTOAzBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBjOg98jDuOIC23Iqwk2gOG+oUBnl779LG1sGAOlAH/Qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaiyanfan
+
+==================================================================
