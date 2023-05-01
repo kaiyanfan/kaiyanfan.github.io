@@ -3,15 +3,15 @@
   contents:
     - name: Full Name
       value: Kaiyan Fan
-    - name: Year of Birth
+    - name: YOB
       value: 2001
     - name: Languages
-      value: English, Mandarin
+      value: 中文, English
 
 - title: Education
   type: time_table
   contents:
-    - title: MEng Computing (International Programme of Study)
+    - title: MEng Computing
       institution: Imperial College London
       year: 2019-2023
 
