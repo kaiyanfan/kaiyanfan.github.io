@@ -25,4 +25,4 @@ Prior to that, I did my high school at [Hangzhou Foreign Languages School](http:
 
 I am interested in computer systems, particularly OS, distributed systems, and system security. During my undergraduate years, I had the privilege of working with Professor [Adam Belay](http://www.abelay.me/) at MIT PDOS Group and Professor [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/) at Imperial College LSDS Group.
 
-I enjoy outdoor activities, including climbing, hiking, and karting. Recently I'm trying to pick up archery and sailing. I've been playing the piano for many years. I'm also an enthusiastic player of a board game called [Twilight Struggle](https://www.twilight-league.com/).
+I enjoy outdoor activities, including climbing, hiking, and karting. Recently I'm trying to pick up archery and sailing. I've been playing the piano for many years. I'm also an enthusiastic player of a board game called [Twilight Struggle](https://twilight-struggle.com/).
