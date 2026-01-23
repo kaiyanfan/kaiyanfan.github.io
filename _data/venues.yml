@@ -1,3 +1,7 @@
 "HotOS 23":
   url: https://sigops.org/s/conferences/hotos/2023/
   color: "#00369f"
+
+"NSDI 25":
+  url: https://www.usenix.org/conference/nsdi25
+  color: "#00369f"

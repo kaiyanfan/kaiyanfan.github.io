@@ -55,10 +55,10 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -131,9 +131,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
-external_sources:
-  - name: Medium
-    rss_url: https://medium.com/@xnvlnasna/feed
+# external_sources:
+#   - name: Medium
+#     rss_url: https://medium.com/@xnvlnasna/feed
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -646,13 +646,6 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
-  - education
-  - publications
-  - projects
   - volunteer
-  - awards
-  - certificates
-  - skills
+  - education
   - languages
-  - interests
-  - references
