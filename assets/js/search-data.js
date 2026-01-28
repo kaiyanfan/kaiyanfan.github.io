@@ -37,11 +37,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-05-shadowsocks",
+        },{id: "post-gfw-technical-review-06-https-and-domain-fronting",
+        
+          title: "GFW Technical Review 06 – HTTPS and Domain Fronting",
+        
+        description: "The Internet&#39;s shift toward HTTPS presents a major challenge to GFW",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw06/";
+          
+        },
+      },{id: "post-gfw-technical-review-05-shadowsocks",
         
           title: "GFW Technical Review 05 – Shadowsocks",
         
-        description: "Shadowsocks is the most influential circumvention protocol up until today",
+        description: "Shadowsocks is the most influential censorship circumvention protocol up until today",
         section: "Posts",
         handler: () => {
           
