@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-06-https-and-domain-fronting",
+        },{id: "post-gfw-technical-review-08-tor",
+        
+          title: "GFW Technical Review 08 – Tor",
+        
+        description: "The Onion Routing, Tor bridges, and pluggable transports",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw08/";
+          
+        },
+      },{id: "post-gfw-technical-review-07-active-probing",
+        
+          title: "GFW Technical Review 07 – Active Probing",
+        
+        description: "The firewall talks back",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw07/";
+          
+        },
+      },{id: "post-gfw-technical-review-06-https-and-domain-fronting",
         
           title: "GFW Technical Review 06 – HTTPS and Domain Fronting",
         
