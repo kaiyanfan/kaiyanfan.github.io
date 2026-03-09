@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-08-tor",
+        },{id: "post-gfw-technical-review-09-v2ray",
+        
+          title: "GFW Technical Review 09 – V2Ray",
+        
+        description: "The VMess protocol and V2Ray platform",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw09/";
+          
+        },
+      },{id: "post-gfw-technical-review-08-tor",
         
           title: "GFW Technical Review 08 – Tor",
         
