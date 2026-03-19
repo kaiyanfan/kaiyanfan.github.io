@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-09-v2ray",
+        },{id: "post-gfw-technical-review-10-trojan-and-statistical-fingerprinting",
+        
+          title: "GFW Technical Review 10 – Trojan and Statistical Fingerprinting",
+        
+        description: "The Imitation Game",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw10/";
+          
+        },
+      },{id: "post-gfw-technical-review-09-v2ray",
         
           title: "GFW Technical Review 09 – V2Ray",
         
