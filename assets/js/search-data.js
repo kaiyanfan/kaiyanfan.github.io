@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-10-trojan-and-statistical-fingerprinting",
+        },{id: "post-gfw-technical-review-11-advanced-tls-evasion",
+        
+          title: "GFW Technical Review 11 – Advanced TLS Evasion",
+        
+        description: "The Modern Circumvention Stack with NaïveProxy, XTLS, and REALITY",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw11/";
+          
+        },
+      },{id: "post-gfw-technical-review-10-trojan-and-statistical-fingerprinting",
         
           title: "GFW Technical Review 10 – Trojan and Statistical Fingerprinting",
         
