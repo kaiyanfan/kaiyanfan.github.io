@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-11-advanced-tls-evasion",
+        },{id: "post-gfw-technical-review-12-hysteria",
+        
+          title: "GFW Technical Review 12 – Hysteria",
+        
+        description: "QUIC Censorship, Brutal and BBR Congestion Control, Hysteria",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw12/";
+          
+        },
+      },{id: "post-gfw-technical-review-11-advanced-tls-evasion",
         
           title: "GFW Technical Review 11 – Advanced TLS Evasion",
         
