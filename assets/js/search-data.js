@@ -37,31 +37,53 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-gfw-technical-review-12-hysteria",
+        },{id: "post-gfw-technical-review-14-the-cat-and-mouse-game",
         
-          title: "GFW Technical Review 12 – Hysteria",
+          title: "GFW Technical Review 14 – The Cat and Mouse Game",
+        
+        description: "The Arms Race between the GFW and Circumvention",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw14/";
+          
+        },
+      },{id: "post-gfw-technical-review-13-hysteria",
+        
+          title: "GFW Technical Review 13 – Hysteria",
         
         description: "QUIC Censorship, Brutal and BBR Congestion Control, Hysteria",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gfw13/";
+          
+        },
+      },{id: "post-gfw-technical-review-12-advanced-tls-evasion",
+        
+          title: "GFW Technical Review 12 – Advanced TLS Evasion",
+        
+        description: "The Modern Circumvention Stack with NaïveProxy, XTLS, and REALITY",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/gfw12/";
           
         },
-      },{id: "post-gfw-technical-review-11-advanced-tls-evasion",
+      },{id: "post-gfw-technical-review-11-statistical-fingerprinting",
         
-          title: "GFW Technical Review 11 – Advanced TLS Evasion",
+          title: "GFW Technical Review 11 – Statistical Fingerprinting",
         
-        description: "The Modern Circumvention Stack with NaïveProxy, XTLS, and REALITY",
+        description: "GFW Modernized",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/gfw11/";
           
         },
-      },{id: "post-gfw-technical-review-10-trojan-and-statistical-fingerprinting",
+      },{id: "post-gfw-technical-review-10-trojan",
         
-          title: "GFW Technical Review 10 – Trojan and Statistical Fingerprinting",
+          title: "GFW Technical Review 10 – Trojan",
         
         description: "The Imitation Game",
         section: "Posts",
@@ -103,11 +125,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/gfw07/";
           
         },
-      },{id: "post-gfw-technical-review-06-https-and-domain-fronting",
+      },{id: "post-gfw-technical-review-06-https-censorship",
         
-          title: "GFW Technical Review 06 – HTTPS and Domain Fronting",
+          title: "GFW Technical Review 06 – HTTPS Censorship",
         
-        description: "The Internet&#39;s shift toward HTTPS presents a major challenge to GFW",
+        description: "HTTPS, SNI censorship, Domain Fronting",
         section: "Posts",
         handler: () => {
           
@@ -151,7 +173,7 @@ ninja.data = [{
         
           title: "GFW Technical Review 02 – VPN",
         
-        description: "How does VPN work to circumvent GFW",
+        description: "How VPNs circumvent the GFW",
         section: "Posts",
         handler: () => {
           
@@ -162,7 +184,7 @@ ninja.data = [{
         
           title: "GFW Technical Review 01 – Architecture",
         
-        description: "The early history and architecture of GFW",
+        description: "The early history and architecture of the GFW",
         section: "Posts",
         handler: () => {
           
