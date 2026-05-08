@@ -96,7 +96,7 @@ ninja.data = [{
         
           title: "GFW Technical Review 09 – V2Ray",
         
-        description: "The VMess protocol and V2Ray platform",
+        description: "The VMess protocol and V2Ray",
         section: "Posts",
         handler: () => {
           
